@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-\+[977-9762260899]{.underline} \|
-[[itsplawan@gmail.com]{.underline}](mailto:itsplawan@gmail.com) \|
+\+[977-9762260899] \|
+[itsplawan@gmail.com](mailto:itsplawan@gmail.com) \|
 <https://linkedin.com/in/plawan-ghimire>
 
 Dynamic ACCA Skills Level Student with Strong Financial Accounting,
@@ -48,8 +48,6 @@ Education
 Mathematics & Computer Science \| Morang NP GPA: 3.65
 
 Core Competencies
-
--   
 
 -   Management Accounting
 
@@ -97,9 +95,6 @@ Technical Skills
 
 -   Design and Layouts
 
-```{=html}
-<!-- -->
-```
 -   Content and Transition
 
 -   Speaker Notes
@@ -139,9 +134,6 @@ Certifications
 
 -   Corporate Finance Fundamentals 70367830
 
-```{=html}
-<!-- -->
-```
 -   Analysing Growth Drivers & Business Risks 70825157
 
 -   Excel Fundamentals -- Formulas for Finance 70732153
@@ -149,9 +141,6 @@ Certifications
 Additional Information
 
 **PERSONAL ATTRIBUTES**
-
--   
-
 -   Enthusiastic
 
 -   Diligent
