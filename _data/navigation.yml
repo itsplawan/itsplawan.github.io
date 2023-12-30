@@ -10,12 +10,12 @@ main:
   #  url: /teaching/    
     
   - title: "Certifications"
-    url: /Certifications/
+    url: /certifications/
         
   - title: "Blog"
     url: /year-archive/
     
   - title: "Resume"
-    url: /https://itsplawan.github.io/files/Resume.pdf/
+    url: /files/Resume.pdf/
     
   
