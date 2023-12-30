@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Plawan Ghimire"
+title: "Plawan Ghimire: A website with my portfolio, posts, articles and other publishing"
 excerpt: "A website with my portfolio, posts, articles and other publishings"
 author_profile: true
 redirect_from: 
