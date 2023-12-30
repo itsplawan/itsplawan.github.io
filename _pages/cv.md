@@ -1,59 +1,85 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+Plawan Ghimire
 
-{% include base_path %}
++977-9762260899 | itsplawan@gmail.com | https://linkedin.com/in/plawan-ghimire
+Dynamic ACCA Skills Level Student with Strong Financial Accounting, Reporting and Auditing expertise.
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+ASSOCIATION OF CHARTERED CERTIFIED ACCOUNTANTS | UK 
+Skills Level									
+•	Audit and Assurance									66%
+•	Financial Reporting 									69%
+•	Performance Management								60%
+•	Global Corporate Business Law								58%
+Diploma in Accounting and Business RQF 4 | Kathmandu NP			
+Knowledge Level								
+•	Business and Technology								76%
+•	Financial Accounting 									75% 
+•	Management Accounting								70%
+NEB | PANCHAYAT SECONDARY SCHOOL				         			                       High School | Science | Physics & Mathematics | Morang NP
+•	Grade 11								                   GPA: 3.53
+•	Grade 12								                   GPA: 3.43
+SEE | RADHIKA SECONDARY SCHOOL 						           2019 Secondary School | Optional Mathematics & Computer Science | Morang NP	       	    GPA: 3.65
+Core Competencies
+ 
+•	Management Accounting
+•	Budgeting and Variances
+•	Project PV
+•	Forecasting
+•	Planning
+•	Reporting
+•	Specialist Costing
+•	Reconciliations
+•	Recording Transactions
+•	Financial Statements Preparation
+•	Analysis and Interpretation
+•	Audit of Financial Statement 
+ 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Technical Skills 
+MS EXCEL
+•	VLOOKUP, XLOOKUP
+•	PIVOT TABLES
+•	INDEX, MATCH
+MS WORD 
+•	Formatting
+•	Templates
+•	Styles
+MS POWERPOINT
+•	Design and Layouts
+•	Content and Transition
+•	Speaker Notes 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+IAS and IFRS 
+•	IAS 1 Presentation of Financial Statements
+•	IAS 2 Inventories
+•	IAS 7 Statement of Cash Flows
+•	IAS 16 Property Plant and Equipment
+•	IAS 37 Provisions and Contingencies
+•	IAS 38 Intangible Assets
+•	IFRS 10 Consolidated Financial Statements (Single Subsidiary Group)
+•	IFRS 15 Revenue from contracts with customer
+•	IFRS 9 Financial Instruments
+•	IFRS 16 Leases
+•	Conceptual Framework 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Certifications
+XERO
+•	Xero Advisor Certified valid till					   	          12/12/2024
+CORPORATE FINANCE INSTITUTION 
+•	Corporate Finance Fundamentals				                            70367830
+•	Analysing Growth Drivers & Business Risks				              70825157
+•	Excel Fundamentals – Formulas for Finance				              70732153 
+ 
+Additional Information
+PERSONAL ATTRIBUTES
+ 
+•	Enthusiastic
+•	Diligent
+•	Independent
+•	Team worker
+•	Quick learner
+•	Attentive to details
+•	Analytical Thinking
+•	Flexible
+•	Adaptive 
+
