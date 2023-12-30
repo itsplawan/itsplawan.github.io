@@ -14,6 +14,6 @@ I am an ACCA student currently pursuing Taxation-UK having completed all other m
 
 **Some Certifications I hold**
 ---
-- [Xero Certified Advisor](https://plawaninc-my.sharepoint.com/personal/plawan_plawaninc_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fplawan%5Fplawaninc%5Fonmicrosoft%5Fcom%2FDocuments%2F001%20Public%20Certifications%2FXero%20Certification%2Epdf&parent=%2Fpersonal%2Fplawan%5Fplawaninc%5Fonmicrosoft%5Fcom%2FDocuments%2F001%20Public%20Certifications&ga=1){:target="_blank"} 
-- [JP Morgan Chase Commercial Banking Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/LBJRY9AanBmxGpPTc_JPMorgan%20Chase_RNn3pZJpfq3jstERp_1688557992166_completion_certificate.pdf){:target="_blank"}
-  [See More]()
+- [Xero Certified Advisor](https://plawaninc-my.sharepoint.com/personal/plawan_plawaninc_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fplawan%5Fplawaninc%5Fonmicrosoft%5Fcom%2FDocuments%2F001%20Public%20Certifications%2FXero%20Certification%2Epdf&parent=%2Fpersonal%2Fplawan%5Fplawaninc%5Fonmicrosoft%5Fcom%2FDocuments%2F001%20Public%20Certifications&ga=1)
+- [JP Morgan Chase Commercial Banking Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/LBJRY9AanBmxGpPTc_JPMorgan%20Chase_RNn3pZJpfq3jstERp_1688557992166_completion_certificate.pdf)  
+[See More]()
