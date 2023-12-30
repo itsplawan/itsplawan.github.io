@@ -1,6 +1,10 @@
 ---
-title: Plawan Ghimire
+layout: archive
+title: "Plawan Ghimire"
+permalink: /resume/
+author_profile: true
 ---
+
 
 \+[977-9762260899]{.underline} \|
 [[itsplawan@gmail.com]{.underline}](mailto:itsplawan@gmail.com) \|
