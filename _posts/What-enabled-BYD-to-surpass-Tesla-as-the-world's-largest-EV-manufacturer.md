@@ -1,5 +1,5 @@
 ---
-title: 'How BYD overtook Tesla as world's largest EV manufacturer'
+title: 'How BYD overtook Tesla as the largest EV manufacturer in the world!!'
 date: 2024-01-10 
 permalink: /posts/2024/01/how-byd-surpassed-tesla-in-sales/
 tags:
