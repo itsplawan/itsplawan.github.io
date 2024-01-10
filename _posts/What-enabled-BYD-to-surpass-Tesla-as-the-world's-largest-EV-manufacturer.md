@@ -1,11 +1,12 @@
 ---
-title: 'Blog Post number 5'
-date: 2015-08-18
-permalink: /posts/2012/08/blog-post-5/
+title: 'What enabled BYD to surpass Tesla as the world's largest EV manufacturer?'
+date: 2024-01-10 
+permalink: /posts/2024/01/how-byd-surpassed-tesla-in-sales/
 tags:
-  - cool posts
-  - category1
-  - category2
+ - BYD China
+ - Tesla
+ - Electric Vehicles
+ - Case Study
 ---
 
 
