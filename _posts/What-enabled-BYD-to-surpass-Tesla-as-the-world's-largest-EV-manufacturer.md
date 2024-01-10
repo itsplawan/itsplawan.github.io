@@ -1,12 +1,22 @@
 ---
 title: 'What enabled BYD to surpass Tesla as the world's largest EV manufacturer?'
+date: 2024-01-10
+permalink: /posts/2024/01/how-byd-surpassed-tesla-in-sales/
+tags:
+  - BYD China
+  - category1
+  - category2
+---
+
+
+title: 'What enabled BYD to surpass Tesla as the world's largest EV manufacturer?'
 date: 2024-01-10 
 permalink: /posts/2024/01/how-byd-surpassed-tesla-in-sales/
 tags:
  - BYD China
  - Tesla
  - Electric Vehicles
----
+
 
 
 BYD has overtaken Tesla in global EV sales in Q4 of 2023. Let’s take a plunge on how much this is thanks to the Chinese EV subsidy policies and what allowed BYD to achieve this.
