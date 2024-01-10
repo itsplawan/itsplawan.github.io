@@ -9,6 +9,7 @@ tags:
   - BYD China
 ---
 
+
 BYD has overtaken Tesla in global EV sales in Q4 of 2023. Let’s take a plunge on how much this is thanks to the Chinese EV subsidy policies and what allowed BYD to achieve this.
 
 
