@@ -9,13 +9,13 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Certifications"
-    url: /certifications/
+  #- title: "Certifications"
+  #  url: /certifications/
         
   - title: "Blog"
     url: /year-archive/
     
-  - title: "Resume"
-    url: /resume/
+  #- title: "Resume"
+  # url: /resume/
     
   
