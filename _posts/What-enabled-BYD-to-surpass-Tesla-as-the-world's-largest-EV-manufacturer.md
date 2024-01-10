@@ -6,7 +6,6 @@ tags:
  - BYD China
  - Tesla
  - Electric Vehicles
- - Case Study
 ---
 
 
