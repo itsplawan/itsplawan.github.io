@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 5'
+title: 'What enabled BYD to surpass Tesla as the world's largest EV manufacturer?'
 date: 2015-08-18
 permalink: /posts/2012/08/blog-post-5/
 tags:
