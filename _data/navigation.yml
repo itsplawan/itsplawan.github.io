@@ -10,7 +10,7 @@ main:
   #  url: /teaching/    
     
   #- title: "Certifications"
-  #  url: /certifications/
+   url: /certifications/
         
   - title: "Blog"
     url: /year-archive/
