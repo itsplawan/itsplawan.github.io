@@ -8,11 +8,10 @@ tags:
  - Electric Vehicles
  - Case Study
 ---
-
-![](https://itsplawan.github.io/images/3953273590_704e3899d5_m.jpg "Title Image")
  
 BYD has overtaken Tesla in global EV sales in Q4 of 2023. Let’s take a plunge on how much this is thanks to the Chinese EV subsidy policies and what allowed BYD to achieve this.
 
+![](https://itsplawan.github.io/images/BYD/quarterly_sales.jpeg "BYD vs Tesla Quarterly Sales figures")
 
 Tax Exemptions from the Chinese Government
 ------
@@ -20,9 +19,9 @@ China has unveiled \\$72.3 billion (520 billion Yuan) tax breaks for electric ve
 New EVs purchased in 2024 and 2025 will have up to 30,000 yuan per vehicle and will be slashed to half for the remainder of the four years.
 This exemption comes as the continuation of subsidy provided by the Chinese government for more than a decade.
 
-
 Sales Price and Affordability
 ------
+![](https://itsplawan.github.io/images/BYD/Sales_Price_Chart.png "Ten BYD Cars under $30,000")
 A customer has the option to choose from ten models from BYD under \\$30,000 as opposed to the cheapest offer from Tesla which costs \\$38,990 for the base Tesla Model 3. This gives customers in BYD’s existing international markets like Brazil, Thailand, India, and Nepal options and easier access to EVs at a lower cost.
 Also, as opposed to the business strategy of Tesla, BYD started with cheap electric taxis and buses that allowed them to perfect their batteries and then they have been gradually moving towards producing more expensive cars in recent days.
 The average price paid for a Tesla is \\$45,000 while the BYD sells for roughly half of that at \\$22,400.
