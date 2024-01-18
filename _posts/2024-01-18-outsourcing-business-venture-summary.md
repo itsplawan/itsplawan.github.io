@@ -1,5 +1,5 @@
 ---
-title: 'Outsourcing Business Venture Summary'
+title: 'Outsourcing Business Venture Summary Report'
 date: 2024-01-18 
 permalink: /posts/2024/01/outsourcing-business-venture-summary/
 tags:
@@ -8,8 +8,6 @@ tags:
  - Outsourcing
 ---
  
-# Business Venture Summary Report
-
 ## Overview
 I am considering establishing an outsourcing firm specializing in financial reporting for venture-backed startups and medium-sized companies in the Technology, Media, and Telecommunications (TMT) industries. The primary services offered will include bookkeeping, payroll services, annual statutory financial reporting, and annual report production.
 
