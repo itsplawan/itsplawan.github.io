@@ -9,7 +9,7 @@ tags:
 ---
  
 ## Overview
-I am considering establishing an outsourcing firm specializing in financial reporting for venture-backed startups and medium-sized companies in the Technology, Media, and Telecommunications (TMT) industries. The primary services offered will include bookkeeping, payroll services, annual statutory financial reporting, and annual report production.
+Are you considering establishing an outsourcing firm? One which specializes in financial reporting for venture-backed startups and medium-sized companies in the Technology, Media, and Telecommunications (TMT) industries. The primary services offered will include bookkeeping, payroll services, annual statutory financial reporting, and annual report production.
 
 ## Key Points
 1. **Target Market:**
