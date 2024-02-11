@@ -11,3 +11,4 @@ This venture aims to not only be a leading outsourcing provider but also harbors
 As I embark on this entrepreneurial journey, I am committed to addressing potential challenges such as client acquisition, market competition, scalability, regulatory compliance, and client retention. Through strategic solutions and a dedication to excellence, my aim is to position the outsourcing firm as a prominent player in the TMT industries.
 
 Feel free to connect with me as I embark on this exciting venture, combining financial expertise with a passion for fostering long-term business success.
+tion
