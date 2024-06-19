@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /
 title: "Plawan Ghimire"
 excerpt: "A website with my portfolio, posts, articles and other publishings"
 author_profile: true
