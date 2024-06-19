@@ -24,4 +24,4 @@ Not only the numbers but computers and the vast world of internet, mainly websit
 ---
 As I already mentioned how much I love creating and keeping a functional website, I was chuffed to bits when I learnt that I can host a personal-professional blog on Github with my own custom domain. So, I had to create one and keep this one updated for as long as I can.<br>
 <br>
-This website will work as a place where I write long form posts which LinkedIn will prevent me from writing. It will act as a collection of all if not most of the LinkedIn posts so I don't end up writing a book which actually should have just been a blog or few LinkedIn posts.<br>
+This website will work as a place where I write long form posts which will be longer than LinkedIn's character limit . It will act as a collection of all if not most of the LinkedIn posts so I don't end up writing a book which actually should have just been a blog or few LinkedIn posts.<br>
